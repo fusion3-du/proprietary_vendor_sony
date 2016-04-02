@@ -33,7 +33,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/odin/proprietary/etc/firmware/touch_module_id_0x34.img:system/etc/firmware/touch_module_id_0x34.img \
     vendor/sony/odin/proprietary/etc/firmware/touch_module_id_0x35.img:system/etc/firmware/touch_module_id_0x35.img \
     vendor/sony/odin/proprietary/etc/flashled_calc_parameters.cfg:system/etc/flashled_calc_parameters.cfg \
-    vendor/sony/odin/proprietary/lib/hw/nfc.msm8960.so:system/lib/hw/nfc.msm8960.so \
     vendor/sony/odin/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
     vendor/sony/odin/proprietary/lib/libcald_server.so:system/lib/libcald_server.so \
     vendor/sony/odin/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \

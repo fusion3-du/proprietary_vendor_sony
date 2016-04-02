@@ -38,5 +38,4 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pollux_windy/proprietary/etc/firmware/gss.b09:system/etc/firmware/gss.b09 \
     vendor/sony/pollux_windy/proprietary/etc/firmware/gss.b10:system/etc/firmware/gss.b10 \
     vendor/sony/pollux_windy/proprietary/etc/firmware/gss.b11:system/etc/firmware/gss.b11 \
-    vendor/sony/pollux_windy/proprietary/etc/firmware/gss.mdt:system/etc/firmware/gss.mdt \
-    vendor/sony/pollux_windy/proprietary/lib/hw/nfc.msm8960.so:system/lib/hw/nfc.msm8960.so
+    vendor/sony/pollux_windy/proprietary/etc/firmware/gss.mdt:system/etc/firmware/gss.mdt

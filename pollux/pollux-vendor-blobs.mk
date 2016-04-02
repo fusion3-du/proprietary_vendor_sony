@@ -25,5 +25,4 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pollux/proprietary/etc/firmware/dsps.b03:system/etc/firmware/dsps.b03 \
     vendor/sony/pollux/proprietary/etc/firmware/dsps.b04:system/etc/firmware/dsps.b04 \
     vendor/sony/pollux/proprietary/etc/firmware/dsps.b05:system/etc/firmware/dsps.b05 \
-    vendor/sony/pollux/proprietary/etc/firmware/dsps.mdt:system/etc/firmware/dsps.mdt \
-    vendor/sony/pollux/proprietary/lib/hw/nfc.msm8960.so:system/lib/hw/nfc.msm8960.so
+    vendor/sony/pollux/proprietary/etc/firmware/dsps.mdt:system/etc/firmware/dsps.mdt
